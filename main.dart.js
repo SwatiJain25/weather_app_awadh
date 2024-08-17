@@ -91798,7 +91798,7 @@ k=p.a.c
 k=A.a2l(A.aG(A.h(J.bR(k.$ti.y[1].a(J.bR(k.a,p.d)),a3))+"\u2103",a0,a0,a0,A.ck(a0,a0,B.j,a0,a0,a0,a0,a0,a0,a0,a0,48,a0,a0,B.ao,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0),a0,a0,a0),B.ds)
 j=A.b0(a0,8,a0)
 i=p.a.c
-i=A.a2l(A.aG("Wind Speed: "+A.h(J.bR(i.$ti.y[1].a(J.bR(i.a,p.d)),a4))+" km/h",a0,a0,a0,A.ck(a0,a0,B.j,a0,a0,a0,a0,a0,a0,a0,a0,25,a0,a0,B.ao,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0),a0,a0,a0),B.ds)
+i=A.a2l(A.aG("Wind Speed: "+A.h(J.bR(i.$ti.y[1].a(J.bR(i.a,p.d)),a4))+" m/s",a0,a0,a0,A.ck(a0,a0,B.j,a0,a0,a0,a0,a0,a0,a0,a0,25,a0,a0,B.ao,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0),a0,a0,a0),B.ds)
 h=p.a.c
 h=A.a2l(A.aG("Light Intensity: "+A.h(J.bR(h.$ti.y[1].a(J.bR(h.a,p.d)),a1))+" lux ",a0,a0,a0,A.ck(a0,a0,B.j,a0,a0,a0,a0,a0,a0,a0,a0,25,a0,a0,B.ao,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0),a0,a0,a0),B.ds)
 g=p.a.c
@@ -91820,7 +91820,7 @@ n=A.h(J.bR(n.$ti.y[1].a(J.bR(n.a,a)),a3))
 q=A.b([q,new A.rm(a0,B.j,a0),o,new A.fa(a0,8,a0,a0),A.aG(n+"\u2103",a0,a0,a0,new A.l(!0,B.j,a0,a0,a0,a0,16,B.ao,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0),a0,a0,a0),new A.fa(a0,8,a0,a0)],f)
 if(p.d===a){o=p.a.c
 o=A.h(J.bR(o.$ti.y[1].a(J.bR(o.a,a)),a4))
-o=A.aG("Wind Speed: "+o+" km/h",a0,a0,a0,new A.l(!0,B.j,a0,a0,a0,a0,13,B.ao,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0),a0,a0,a0)
+o=A.aG("Wind Speed: "+o+" m/s",a0,a0,a0,new A.l(!0,B.j,a0,a0,a0,a0,13,B.ao,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0),a0,a0,a0)
 n=p.a.c
 n=A.h(J.bR(n.$ti.y[1].a(J.bR(n.a,a)),a5))
 n=A.aG("Humidity: "+n+" %",a0,a0,a0,new A.l(!0,B.j,a0,a0,a0,a0,13,B.ao,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0),a0,a0,a0)
